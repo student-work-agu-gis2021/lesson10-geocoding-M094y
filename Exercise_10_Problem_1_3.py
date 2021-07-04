@@ -138,5 +138,7 @@ for i, group in grouped:
 # - What was difficult?
 
 # YOUR ANSWER HERE
+##It was easy to read and save the data. But everything was difficult.
+
 
 # Well done!
